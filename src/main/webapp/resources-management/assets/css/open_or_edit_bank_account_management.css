@@ -1,0 +1,20 @@
+.pull-left>.page-title{
+    font-weight: bolder;
+}
+.openAccountButton{
+    background-color: #8aaae5;
+}
+.openAccountButton:hover{
+    background-image: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);;
+}
+
+.completeOpen>.col-6{
+    border: 5px solid #8aaae5;
+    border-radius: 10px;
+    padding: 20px;
+}
+.completeOpen>.col-6>.headerCD{
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+}
